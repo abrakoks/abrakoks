@@ -5,7 +5,7 @@ Hello everyone, my name is Alina. In my background, I am an intensive care neuro
 •	Python: pandas, numpy, matplotlib, seaborn, sklearn\
 •	DBMS: MySQL, Clickhouse (window functions, subquery, joins)\
 •	A/B testing: metrics, bootstrap, t-test, U-test\
-•	Dashboards: Tableau\
+•	Dashboards: [Tableau](https://public.tableau.com/app/profile/abrakoks/vizzes)\
 •	Git
 
 📩 Direct message me on Telegram [@alwashere](https://t.me/alwashere)
